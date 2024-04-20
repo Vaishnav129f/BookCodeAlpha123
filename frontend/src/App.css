@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.viewBook {
+  outline: none;
+  border: 1px solid white;
+  background-color: transparent;
+  padding: 5px 20px 5px 20px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Global reset */
+
+/* Styling for the form labels and inputs in AddBooks component */
+.container {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  color: white;
+}
+
+.form-control {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+/* Styling for the submit button */
+.btn-success {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.btn-success:hover {
+  background-color: darkgreen;
+}
